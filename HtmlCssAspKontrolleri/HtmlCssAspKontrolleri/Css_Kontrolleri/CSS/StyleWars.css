@@ -1,0 +1,46 @@
+﻿
+
+body {
+    font-family: Calibri;
+    color: orangered;
+    /*Body içerisinde etiketi ne olursa olsun her elemanın font family özelliğini değiştiri*/
+}
+h3, h2 {
+    color: red;
+}
+p {
+    color: dimgray;
+}
+
+a {
+    color: green;
+}
+
+.murtaza {
+    color: deeppink;
+    font-size: 15pt;
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+}
+
+#lblkullanici {
+    color: black;
+}
+.farklifont {
+    font-family: "Dancing Script";
+    font-size:25pt;
+    font-weight:700;
+}
+.button{
+    background-color:orangered;
+    color:white;
+    font-weight:900;
+    text-decoration:none;
+}
+.button:hover{
+    background-color:orange;
+}
+.button:visited
+{
+    background-color:purple;
+}
